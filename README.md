@@ -21,13 +21,13 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 
    ```bash
    git clone https://github.com/tu_usuario/crud-peliculas-django.git
-   cd crud-peliculas-django ```
+   cd crud-peliculas-django 
 2. Instala las dependencias
        ```bash
     ./env/Scripts/activate
     python manage.py migrate
- ```
+ 
  3. Inicia el servidor
        ```bash
    python manage.py runserver
- ```
+ 
